@@ -1,0 +1,26 @@
+
+#cardAuth{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 70px;
+}
+
+#cardAuth .card-title h2{
+    padding: 40px;
+}
+
+#homeTitle{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.top hr{
+    border: 1px solid red;
+}
+
+.top .row{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 100px;
+}
